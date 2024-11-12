@@ -37,7 +37,7 @@ Styling: Bootstrap for a responsive and modern Ui
 🔧 Installation & Setup
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Clone the repository to your local machine:
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com
 Navigate into the project folder:
 cd todo-app
 Install dependencies:
